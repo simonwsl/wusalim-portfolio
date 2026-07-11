@@ -148,5 +148,8 @@ nav a:hover {
 
     text-decoration: none;
 
-    border: 1px solid ;
+    border: 1px solid #333;
+
+    border-radius: 5px;
+    
 }
