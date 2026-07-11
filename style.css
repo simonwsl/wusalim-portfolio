@@ -129,3 +129,11 @@ nav a:hover {
 
     border-radius: 10px;
 }
+
+.project-images img {
+
+    width: 200px;
+
+    margin: 10px;
+    
+}
