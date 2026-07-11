@@ -22,7 +22,7 @@ I am a Computer Science graduate with experience in technical support,
 
 ### Augmented Reality Quiz Game
 
-Educational AR quiz application developed as my university capstone project.
+A location-based augmented reality quiz application developed as my university final year project. Built using HTML5, CSS3, JavaScript, JSON, and A-Frame.
 
 ### Portfolio Website
 
